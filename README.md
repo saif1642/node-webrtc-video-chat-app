@@ -1,5 +1,5 @@
 # Video Calling App
-  A  video calling system using webrtc and node 
+  A  video calling system using webrtc and node websocket as a signaling server.
 
 
 # Install 
