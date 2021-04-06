@@ -13,3 +13,7 @@
   3. User can mute audio and video using mute audio/video button 
 
 <img src="img.png"/>
+
+<img src="img1.png"/>
+
+<img src="img2.png"/>
